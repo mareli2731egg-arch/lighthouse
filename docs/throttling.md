@@ -62,6 +62,7 @@ throttle 3gfast
 # To disable throttling
 throttle --stop
 ```
+<img width="1366" height="768" alt="Capture001" src="https://github.com/user-attachments/assets/944f3ba2-21ff-419e-ba65-6d3f05fbd407" />
 
 For more information and a complete list of features visit the documentation on [sitespeed.io website](https://www.sitespeed.io/documentation/throttle/).
 
